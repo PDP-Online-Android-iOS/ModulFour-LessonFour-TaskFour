@@ -1,10 +1,12 @@
-package dev.ogabek.kotlin
+package dev.ogabek.kotlin.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
+import dev.ogabek.kotlin.Member
+import dev.ogabek.kotlin.R
 
 class SecondActivity : AppCompatActivity() {
 

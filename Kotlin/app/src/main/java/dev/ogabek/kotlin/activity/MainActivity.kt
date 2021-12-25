@@ -1,4 +1,4 @@
-package dev.ogabek.kotlin
+package dev.ogabek.kotlin.activity
 
 import android.app.Activity
 import android.content.Intent
@@ -7,6 +7,8 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import androidx.activity.result.contract.ActivityResultContracts
+import dev.ogabek.kotlin.R
+import dev.ogabek.kotlin.User
 
 class MainActivity : AppCompatActivity() {
 
